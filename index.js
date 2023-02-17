@@ -5,4 +5,4 @@ const bot = new Client({ intents: 3276799 })
 
 setup(bot)
 
-bot.login(bot.token)
+bot.login(bot.token) 
