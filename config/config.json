@@ -1,0 +1,7 @@
+{
+  "token": "YOUR BOT TOKEN",
+  "client_id": "YOUR BOT ID",
+  "prefix": "YOUR PREFIX",
+  "spotifyClientID": "THESE TWO ARE FIND IN YOUR SPOTIFY DEVELOPER APPLICATIONS",
+  "spotifyClientSecret": "SEARCH ABOUT IT"
+}
