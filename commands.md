@@ -26,7 +26,7 @@
 
  <hr>
 
- - `save`: Save the currently playing song to the saved songs list.
+ - `save`: Save the currently playing song to the saved songs list or play your favorites.
  - `unsave`: Remove the current song from the saved songs list.
  - `saved`: Display a list of saved songs.
  - `save-queue`: Save the current queue as a playlist.
