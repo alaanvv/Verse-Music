@@ -18,4 +18,5 @@ Spotify, it also have a playlist system <br>
  - Now the bot is ready, when you want to use it, <br>
 run `run-lavalink.bat`, then `bot.bat`
 
-A list with all commands can be found <a href='https://github.com/alaanvv/Verse-Music/blob/main/commands.md'>here</a>
+A list with all commands can be found <a href='https://github.com/alaanvv/Verse-Music/blob/main/commands.md'>here</a> <br>
+You can use this code as you want, if its possible, let a link for my github as credit
