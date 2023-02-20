@@ -16,7 +16,7 @@ Spotify, it also have a playlist system <br>
  - Execute `install.bat`
  - If you want Slash Commands, execute `uploadSlash.bat`
  - Now the bot is ready, when you want to use it, <br>
-run `run-lavalink.bat`, then `bot.bat`
+run `bot.bat`
 
 A list with all commands can be found <a href='https://github.com/alaanvv/Verse-Music/blob/main/commands.md'>here</a> <br>
 You can use this code as you want, if its possible, let a link for my github as credit
