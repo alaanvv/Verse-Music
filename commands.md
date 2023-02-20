@@ -14,6 +14,7 @@
  - `seek`: Seek to a specific time in the currently playing song.
  - `loop`: Toggle loop mode.
  - `volume`: Set the volume of the music player.
+ - `autoplay`: Toggle autoplay on/off.
  
  <hr>
 
