@@ -13,7 +13,7 @@ Spotify, it also have a playlist system <br>
  <img src='./img/download.png' width='600'>
  
  - Complete `config/config.json`
- - Execute `install.bat` (Ignore the 'z ')
+ - Execute `install.bat`
  - If you want Slash Commands, execute `uploadSlash.bat`
  - Now the bot is ready, when you want to use it, <br>
 run `run-lavalink.bat`, then `bot.bat`
