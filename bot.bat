@@ -1,2 +1,2 @@
-start cmd /k Call z-bot.bat
-start cmd /k Call z-run-lavalink.bat
+start cmd /k Call npm start
+start cmd /k Call java -jar ./lavalink/Lavalink.jar
