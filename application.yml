@@ -25,3 +25,6 @@ metrics:
     endpoint: /metrics
 sentry:
   dsn: ""
+logging:
+  level:
+    com.sedmelluq: OFF
