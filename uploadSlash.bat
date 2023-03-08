@@ -1,1 +1,0 @@
-node ./lib/setup/uploadSlashCommands.js

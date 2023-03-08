@@ -15,6 +15,7 @@
  - `loop`: Toggle loop mode.
  - `volume`: Set the volume of the music player.
  - `autoplay`: Toggle autoplay on/off.
+ - `lyrics`: Send lyrics for current song.
  
  <hr>
 
@@ -30,5 +31,6 @@
  - `save`: Save the currently playing song to the saved songs list or play your favorites.
  - `unsave`: Remove the current song from the saved songs list.
  - `saved`: Display a list of saved songs.
+ - `add-saved`: Add the saved song list to the queue.
  - `save-queue`: Save the current queue as a playlist.
  - `clear-save`: Clear the entire saved songs list.

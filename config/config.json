@@ -1,7 +1,0 @@
-{
-  "token": "BOT TOKEN",
-  "client_id": "BOT ID",
-  "prefix": "PREFIX",
-  "spotifyClientID": "SPOTIFY APP ID (SEARCH HOW TO CREATE ONE)",
-  "spotifyClientSecret": "SPOTIFY CLIENT SECRET"
-}

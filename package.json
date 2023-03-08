@@ -17,6 +17,7 @@
     "erela.js-facebook": "^1.0.4",
     "erela.js-spotify": "^1.2.0",
     "get-pixels": "^3.3.3",
+    "puppeteer": "^19.7.2",
     "quantize": "^1.0.2",
     "sqlite3": "^5.1.4"
   }
