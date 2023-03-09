@@ -1,17 +1,13 @@
 {
-  "token": "YOU CAN FIND TOKEN AND ID IN DISCORD DEVELOPER PAGE",
-  "client_id": "",
-
-  "prefix": "",
-
-  "spotifyClientID": "YOU NEED TO CREATE A SPOTIFY DEVELOPER ACCOUNT",
-  "spotifyClientSecret": "YOU CAN SEARCH ABOUT IT",
-
-  "_comment": "IF LAVALINK IS NOT WORKING WELL, YOU CAN SET IT FALSE TO RUN LAVALINK MANUALLY (lavalink.bat) AND SEE THE ERROR",
-  "autoRunLavalink": true,
+  "token": "MTA3NTAyMTUzOTE4MDgxNDQwNw.GVpTov.RKSK99qRTs-yQs6DJVM8_rGoeYpVkVdAUxHekU",
+  "client_id": "1075021539180814407",
   
-  "__comment": "TO CHANGE THE LAVALINK PORT YOU ALSO NEED TO CHANGE IT ON application.yml",
-  "lavalinkPort": 2333,
+  "prefix": ".",
+  
+  "spotifyClientID": "ef46df3725c84e97a0235a910950ae3e",
+  "spotifyClientSecret": "56b0fc88e62c4a9ca6277f2ec7fe3f28",
 
-  "logMessages": false
+  "lavalinkPort": 3169,
+
+  "logMessages": true
 }

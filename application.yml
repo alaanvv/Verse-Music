@@ -1,5 +1,5 @@
 server:
-  port: 314
+  port: 3169
   address: 0.0.0.0
 lavalink:
   server:
