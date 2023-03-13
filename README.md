@@ -14,13 +14,12 @@ _Spotify_, it also have a playlist system
  
  - Complete `config.json`
  - Execute `install.bat`
-   - If you want Slash Commands, execute `uploadSlash.bat`
  - Now the bot is ready, when you want to use it,  
 run `bot.bat`
   
 A list with all commands can be found [here][commands]
 > You can use this code as you want, if possible, let a link for [my github][github] as credit.
-> I would be happy if you print your errors and send a Issue request here.
+> I would be happy if you print your errors and send a Issue here.
 
 [commands]: https://github.com/alaanvv/Verse-Music/blob/main/commands.md
 [node]: https://nodejs.org/en/
