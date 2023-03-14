@@ -17,6 +17,7 @@
  - `volume`: Set the volume of the music player.
  - `autoplay`: Toggle autoplay on/off.
  - `lyrics`: Send lyrics for current song.
+ - `time`: Show current time of the song.
  
  <hr>
 
