@@ -1,13 +1,10 @@
 {
   "name": "verse-music",
   "author": "alaanvv",
-  "description": "",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "2.0.0",
   "scripts": {
     "start": "node index.js"
   },
-  "license": "ISC",
   "dependencies": {
     "discord.js": "^14.7.1",
     "enmap": "^5.9.5",

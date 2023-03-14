@@ -18,7 +18,7 @@ _Spotify_, it also have a playlist system
 run `bot.bat`
   
 A list with all commands can be found [here][commands]
-> You can use this code as you want, if possible, let a link for [my github][github] as credit.
+> You can use this code as you want, if possible, let a link for [my github][github] as credit.  
 > I would be happy if you print your errors and send a Issue here.
 
 [commands]: https://github.com/alaanvv/Verse-Music/blob/main/commands.md
