@@ -1,6 +1,7 @@
 # Verse-Music Commands
 
  - `setup`: Setup the music player for the current channel.
+ - `prefix`: Set a prefix for this server.
  
  <hr>
 
