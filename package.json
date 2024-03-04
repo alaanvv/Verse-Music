@@ -1,0 +1,15 @@
+{
+	"name": "verse-music",
+	"author": "alaanvv",
+	"version": "2.0.0",
+	"scripts": {
+		"start": "node --watch index.js"
+	},
+	"dependencies": {
+		"discord.js": "^14.7.1",
+		"dotenv": "^16.0.3",
+		"enmap": "^5.9.5",
+		"erela.js": "^2.4.0",
+		"erela.js-spotify": "^1.2.0"
+	}
+}
